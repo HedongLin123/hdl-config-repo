@@ -1,4 +1,4 @@
 mysql:
-  url: jdbc:mysql://localhost:3306/db200
+  url: jdbc:mysql://localhost:3306/db300
 hdl:
-    message: hello hdl 200
+    message: hello hdl 300
