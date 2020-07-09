@@ -1,0 +1,4 @@
+mysql:
+  url: jdbc:mysql://localhost:3306/db1
+  hdl:
+    message: hello hdl 100
